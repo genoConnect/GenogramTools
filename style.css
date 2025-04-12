@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 2rem;
+  background: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+header img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 2rem;
+}
+h1 {
+  color: #f26c20;
+}
+h2 {
+  margin-top: 2rem;
+  color: #444;
+}
+a {
+  color: #f26c20;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
