@@ -6,4 +6,4 @@ It covers both clinical/genetic genogram systems and visual design tools, to hel
 
 Live version: [https://genogramtools.com](https://genogramtools.com)
 
-Maintained by the team at GenoConnect.
+Maintained by the team at GenogramTools.
